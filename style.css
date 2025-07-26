@@ -1,7 +1,9 @@
 *{
   align-items: center;
-  overflow-x:hidden;
   
+}
+body{
+    overflow-x:hidden;
 }
 
 
